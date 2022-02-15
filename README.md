@@ -6,9 +6,9 @@
 - Listing the repos
 - Saving and deleting repos in LocalStorage
 
-![storage](images/storage.gif)
+![storage](images/storage2.gif)
 
 
 - if there is no repo
 
-![<img src="/images/error.gif" width="500" height="500"/>](images/error.gif)
+![error](images/error2.gif)
